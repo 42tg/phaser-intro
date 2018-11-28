@@ -1,10 +1,7 @@
-# Phaser 3 Webpack Project Template
+# Phaser 3 Tutorial
 
-A Phaser 3 Project Template
+Just the content of http://phaser.io/tutorials/making-your-first-phaser-3-game
 
-### Requirements
-
-We need [Node.js](https://nodejs.org) to install and run scripts.
 
 ## Install and run
 
