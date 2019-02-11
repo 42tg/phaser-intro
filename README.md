@@ -1,5 +1,7 @@
 # Phaser 3 Tutorial
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/42tg/phaser-intro.svg)](https://greenkeeper.io/)
+
 Just the content of http://phaser.io/tutorials/making-your-first-phaser-3-game
 
 
